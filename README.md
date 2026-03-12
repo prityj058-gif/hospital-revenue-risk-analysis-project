@@ -1,6 +1,3 @@
-# Hospital-Revenue-Risk-Analysis
-Healthcare Data Analysis Project using Excel and Power BI
-
 # 🏥 Hospital Revenue & Risk Analysis Dashboard
 
 ## 📌 Project Overview
